@@ -1,0 +1,8 @@
+input:focus{
+    background-color: yellowgreen;
+}
+
+#submit{
+    color: black;
+    height: 35px;
+}
